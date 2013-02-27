@@ -1,0 +1,1 @@
+An audio visualization program built in Processing using Java and OpenGL. This project builds off of the incorporated minim fast fourier transform library to render the frequencies of a given input song every few milliseconds.
