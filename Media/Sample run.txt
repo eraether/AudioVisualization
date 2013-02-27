@@ -1,0 +1,11 @@
+C:\Users\Eugene\Desktop\Programming Blog\Audio Visualization++\AnalyzeSound\appl
+ication.windows64>java -Djava.ext.dirs=lib -Djava.library.path=lib AnalyzeSound
+song="selfdestruct.mp3" bars=102 width=512 height=200
+song=selfdestruct.mp3
+bars=102
+width=512
+height=200
+Parameters given: {height=200, bars=102, width=512, song=selfdestruct.mp3}
+Analyzing & Playing selfdestruct.mp3
+512x200 window, 102 bars.
+Cutoff frequency:0.4000000059604645
